@@ -2,6 +2,8 @@
 
 このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
 
+⚠️テキストに誤りを見つけた場合は、[報告してください。](https://github.com/DmitrySenpai/cso2-global-jp/issues)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2939460/171453657-e419f69e-82ec-4573-b336-3ed1fbc164db.png" />
 </p>
@@ -16,6 +18,10 @@
 start launcher.exe -lang japanese -masterip global -decryptedfiles -enablecustom -login YOUR_LOGIN -password YOUR_PASSWORD
 ```
 5. batスクリプトを実行します。(* ^ ω ^)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2939460/171458563-b0c9beef-c8b9-4b1d-8232-0b8340166855.png" />
+</p>
 
 # 日本語ボイスアクティング
 
