@@ -31,3 +31,6 @@ start launcher.exe -lang japanese -masterip global -decryptedfiles -enablecustom
 アーカイブの「sound」フォルダは「custom」に配置する必要があります。
 フォルダパスは次のようになります:  C:\Counter-Strike Online 2 Global\custom\
 
+# チャット
+
+日本語のキャラクターとチャットを機能させるには、このプログラムを使用します。 https://github.com/DmitrySenpai/game-fix-ime
