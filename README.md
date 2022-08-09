@@ -1,5 +1,7 @@
 # Counter-Strike Online 2 日本語ローカリゼーション
 
+![downloads](https://img.shields.io/github/downloads/DmitrySenpai/cso2-global-jp/total)
+
 このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
 
 ⚠️テキストに誤りを見つけた場合は、[報告してください。](https://github.com/DmitrySenpai/cso2-global-jp/issues)
