@@ -1,5 +1,6 @@
 # Counter-Strike Online 2 日本語ローカリゼーション
 
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">![CC BY-SA 3.0](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)</a>
 ![downloads](https://img.shields.io/github/downloads/DmitrySenpai/cso2-global-jp/total)
 
 このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
@@ -9,6 +10,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2939460/171453657-e419f69e-82ec-4573-b336-3ed1fbc164db.png" />
 </p>
+
+# License
+
+このプロジェクトは、Valve または Nexon のいずれとも提携していません。 Counter-Strike: Online 2 は、これらの会社が所有しています。
+CC BY-SA 3.0 ライセンスの下でライセンスされています。詳細については ``COPYING`` を参照してください。
+
+This project is not affiliated with either Valve or Nexon. Counter-Strike: Online 2 is owned by these companies.
+Licensed under the CC BY-SA 3.0 license, see ``COPYING`` for more information.
 
 # インストール手順：
 
