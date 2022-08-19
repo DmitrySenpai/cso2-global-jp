@@ -1,40 +1,45 @@
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">![CC BY-SA 3.0](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)</a>
+![downloads](https://img.shields.io/github/downloads/DmitrySenpai/cso2-global-jp/total)
+
 このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
 
 ⚠️テキストに誤りを見つけた場合は、[報告してください。](https://github.com/DmitrySenpai/cso2-global-jp/issues)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2939460/171453657-e419f69e-82ec-4573-b336-3ed1fbc164db.png" />
+</p>
 
-You can use the [editor on GitHub](https://github.com/DmitrySenpai/cso2-global-jp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# License
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このプロジェクトは、Valve または Nexon のいずれとも提携していません。 Counter-Strike: Online 2 は、これらの会社が所有しています。
+CC BY-SA 3.0 ライセンスの下でライセンスされています。詳細については ``COPYING`` を参照してください。
 
-### Markdown
+This project is not affiliated with either Valve or Nexon. Counter-Strike: Online 2 is owned by these companies.
+Licensed under the CC BY-SA 3.0 license, see ``COPYING`` for more information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# インストール手順：
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. 最新のローカリゼーションバージョンを[ダウンロードします](https://github.com/DmitrySenpai/cso2-global-jp/releases)。
+2. ゲームがインストールされているアーカイブからフォルダを転送します。例えば：C:\Counter-Strike Online 2 Global\
+3. このフォルダに、batスクリプトを作成します。ファイルには、**「start.bat」** のような名前を付ける必要があります。*(binフォルダに作成する必要があります！)*
+4. このコードをコピーして貼り付けます。 ただし、詳細を入力することを忘れないでください。
 ```
+start launcher.exe -lang japanese -masterip global -decryptedfiles -enablecustom -login YOUR_LOGIN -password YOUR_PASSWORD
+```
+5. batスクリプトを実行します。(* ^ ω ^)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2939460/171458563-b0c9beef-c8b9-4b1d-8232-0b8340166855.png" />
+</p>
 
-### Jekyll Themes
+# 日本語ボイスアクティング
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DmitrySenpai/cso2-global-jp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+日本語のボイスアクティングをインストールすることもできます。すべての声の演技は、Counter-Strike Online 2の元の日本語版から取られました。
+ここからアーカイブをダウンロードできます: https://disk.yandex.com/d/K5r4QQOHeS4w4w [最終更新2022年6月1日]
 
-### Support or Contact
+アーカイブの「sound」フォルダは「custom」に配置する必要があります。
+フォルダパスは次のようになります:  C:\Counter-Strike Online 2 Global\custom\
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# チャット
+
+日本語のキャラクターとチャットを機能させるには、このプログラムを使用します。 https://github.com/DmitrySenpai/game-fix-ime
