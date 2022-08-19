@@ -1,4 +1,7 @@
-## Counter-Strike Online 2
+このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
+
+⚠️テキストに誤りを見つけた場合は、[報告してください。](https://github.com/DmitrySenpai/cso2-global-jp/issues)
+
 
 You can use the [editor on GitHub](https://github.com/DmitrySenpai/cso2-global-jp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
