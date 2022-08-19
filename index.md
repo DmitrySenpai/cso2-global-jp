@@ -1,4 +1,4 @@
-## Counter-Strike Online 2 日本語ローカリゼーション
+## Counter-Strike Online 2
 
 You can use the [editor on GitHub](https://github.com/DmitrySenpai/cso2-global-jp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
