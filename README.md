@@ -23,12 +23,10 @@ Licensed under the CC BY-SA 3.0 license, see ``COPYING`` for more information.
 
 1. 最新のローカリゼーションバージョンを[ダウンロードします](https://github.com/DmitrySenpai/cso2-global-jp/releases)。
 2. ゲームがインストールされているアーカイブからフォルダを転送します。例えば：C:\Counter-Strike Online 2 Global\
-3. このフォルダに、batスクリプトを作成します。ファイルには、**「start.bat」** のような名前を付ける必要があります。*(binフォルダに作成する必要があります！)*
-4. このコードをコピーして貼り付けます。 ただし、詳細を入力することを忘れないでください。
-```
-start launcher.exe -lang japanese -masterip global -decryptedfiles -enablecustom -login YOUR_LOGIN -password YOUR_PASSWORD
-```
-5. batスクリプトを実行します。(* ^ ω ^)
+3. ランチャーを開き、設定をクリックします。「Add/Override」をクリックして、引数に「-lang japanese」と入力してください。
+<p align="center">
+  <img width="800" height="560" alt="image" src="https://github.com/user-attachments/assets/1e71715d-42e9-4f2a-8748-b4bb952af83f" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2939460/171458563-b0c9beef-c8b9-4b1d-8232-0b8340166855.png" />
