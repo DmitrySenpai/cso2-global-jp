@@ -5,17 +5,7 @@
 
 このローカリゼーションは、クライアントゲーム[「Counter strike online 2 Global」](http://cso2.wohlnet.ru/)のみを対象としています!
 
-<!--
 ⚠️テキストに誤りを見つけた場合は、[報告してください。](https://github.com/DmitrySenpai/cso2-global-jp/issues)
--->
-# ⚠️ プロジェクトは凍結されています
-
-私は残念ながら、ゲーム「Counter-Strike Online 2」の日本語訳はもうやっていません。
-翻訳作業には多くの時間がかかりますから、自由な時間がありません。
-誰かが私のプロジェクトに取り組み続けてもかまいません。
-したがって、安全に「forks」を実行できます。
-
-みんなの幸運を祈ります 👋
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2939460/171453657-e419f69e-82ec-4573-b336-3ed1fbc164db.png" />
